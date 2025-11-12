@@ -1,0 +1,15 @@
+Using the city Chefchaouen and Despeñaderos and the starting Action ID A1376:
+List and briefly describe all implemented urban climate protection measures in the city before 2024 related to transport, buildings, and green infrastructure, focusing on the following nine measures: 1. Expansion of Pedestrian Paths, 2. Expansion of Bicycle Paths, 3. Expansion of Public Local Transport, 4. Expansion of Public Long-Distance Transport, 5. Alternative Drive Systems and Sharing Offers, 6. Intelligent Traffic Control, 7. Energy-efficient Building Refurbishment, 8. Green Infrastructure (Carbon Sinks), 9. Sustainable Land Management (Avoidance of Urban Sprawl).
+At least 10 for each.
+Present the results exclusively in a structured CSV format, using a comma (,) as the delimiter, and ensure the entire output is in English.
+The CSV must contain the following columns in this exact order, adhering to the specified constraints for each:
+
+City_ID: Use the full city name from the instruction for every entry.
+Action_Name: A concise, descriptive English name for the action (e.g., 'Metro LCOI Start').
+Action_ID: A short identifier, starting from the given Action ID (e.g., 'A01', 'A02', etc.).
+Start Date (Date): The year and month when the measure became fully effective and began to impact the climate (e.g., '2007/01').
+End Date (Date): The year and month when the measure was fully executed / finished (e.g. '2025/01', 'Ongoing')
+Costs (Number): How much did the measure cost in mio.
+Scope (String): Categorize the scope as 'Pilot', 'Medium (District/Corridor)', or 'City-wide'.
+Measure (Label): Must exactly match one of the nine specified measures listed above.
+Short Description (Text): A concise English summary of the measure's implementation and impact. Crucially, exclude all numerical citation markers (e.g., , ) from this text field.

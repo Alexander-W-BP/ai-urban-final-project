@@ -1,0 +1,31 @@
+I need you to complete the following CSV data lines based on the city and date provided in the lines below.
+
+Tokio,,,,1960/12,,,,
+Tokio,,,,1969/06,,,,
+Tokio,,,,2001/04,,,,
+Tokio,,,,2010/04,,,,
+Tokio,,,,2014/01,,,,
+Tokio,,,,2019/12,,,,
+Tokio,,,,2018/07,,,,
+Tokio,,,,2021/01,,,,
+Tokio,,,,2022/03,,,,
+Tokio,,,,2023/01,,,,
+Tokio,,,,2023/05,,,,
+
+The fields in the completed line must correspond to the following CSV header structure:
+City_ID,Country,Region_Code,Climate_Zone,Date,Population_2025_Mio,Median_Age_Years,GDP_Billion_USD,GDP_per_Capita_USD
+
+The data values must be historically accurate for the city at the specified 'Date' (e.g., Population, GDP, and Median Age must be for 1995/04, or the closest available data).
+
+Mandatory Rules for Data Completion:
+
+1.  The Region_Code must be one of the following codes used in the provided city list: ASIA, EUR, NA, SA, AFR, OCEA.
+2.  The value for Median_Age_Years must be a whole number and must not contain the tilde (~) or any other non-numeric symbols.
+3.  The values for Population_2025_Mio and GDP_Billion_USD should be rounded to one decimal place, if necessary.
+4.  The values for Climate_Zone must be one of Tropical Zone, Subtropical Zone, Temperate Zone, Subpolar Zone, Polar Zone.
+5.  The final output must strictly consist of only the header line and the completed data line in CSV format. Do not include any explanatory text, tables, or notes.
+6. At the end, sort everything from early to late date.
+
+Final Output CSV Data Format:
+[COMPLETED DATA LINE]
+Only the new complete line should be output in code snippet format, and the name of the city passed as input should appear at the beginning.

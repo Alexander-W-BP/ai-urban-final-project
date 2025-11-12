@@ -1,0 +1,922 @@
+City_ID,Country,Region_Code,Climate_Zone,Date,Population_2025_Mio,Median_Age_Years,GDP_Billion_USD,GDP_per_Capita_USD
+Shanghai,China,ASIA,Subtropical Zone,1995/04,11.1,26,45.8,4126.1
+Shanghai,China,ASIA,Subtropical Zone,2000/06,14.2,29,88.1,6204.2
+Shanghai,China,ASIA,Subtropical Zone,2001/12,14.8,29,103.9,7020.3
+Shanghai,China,ASIA,Subtropical Zone,2003/11,15.9,30,131.9,8308.2
+Shanghai,China,ASIA,Subtropical Zone,2006/01,17.7,32,174.9,9881.4
+Shanghai,China,ASIA,Subtropical Zone,2010/01,20.3,34,286.0,14088.7
+Shanghai,China,ASIA,Subtropical Zone,2010/04,20.3,34,286.0,14088.7
+Shanghai,China,ASIA,Subtropical Zone,2010/07,20.3,34,286.0,14088.7
+Shanghai,China,ASIA,Subtropical Zone,2013/01,22.2,35,361.6,16279.3
+Shanghai,China,ASIA,Subtropical Zone,2015/01,23.5,36,448.7,19093.6
+Shanghai,China,ASIA,Subtropical Zone,2015/12,23.5,36,448.7,19093.6
+Shanghai,China,ASIA,Subtropical Zone,2016/01,24.2,36,482.0,19917.4
+Shanghai,China,ASIA,Subtropical Zone,2016/04,24.2,36,482.0,19917.4
+Shanghai,China,ASIA,Subtropical Zone,2017/01,24.9,37,515.2,20690.0
+Shanghai,China,ASIA,Subtropical Zone,2018/01,25.6,38,574.6,22445.3
+Shanghai,China,ASIA,Subtropical Zone,2020/01,27.1,38,629.8,23249.4
+Shanghai,China,ASIA,Subtropical Zone,2022/01,28.5,39,692.7,24296.2
+Karachi,Pakistan,ASIA,Tropical Zone,2016/02,15.2,22,67.6,4447.4
+Karachi,Pakistan,ASIA,Tropical Zone,2021/12,17.4,23,90.6,5206.9
+Karachi,Pakistan,ASIA,Tropical Zone,2022/09,17.7,23,93.4,5276.8
+Karachi,Pakistan,ASIA,Tropical Zone,2023/12,18.1,24,96.5,5331.5
+Beijing,China,ASIA,Temperate Zone,2001/01,13.8,30,19.2,1391
+Beijing,China,ASIA,Temperate Zone,2007/01,16.4,32,126.9,7738
+Beijing,China,ASIA,Temperate Zone,2007/10,16.8,32,150.3,8946
+Beijing,China,ASIA,Temperate Zone,2008/01,16.9,32,154.6,9148
+Beijing,China,ASIA,Temperate Zone,2010/01,19.6,33,230.8,11776
+Beijing,China,ASIA,Temperate Zone,2010/12,20.0,33,260.6,13030
+Beijing,China,ASIA,Temperate Zone,2011/01,20.2,34,264.4,13089
+Beijing,China,ASIA,Temperate Zone,2011/12,20.5,34,302.5,14756
+Beijing,China,ASIA,Temperate Zone,2012/01,20.6,34,307.7,14937
+Beijing,China,ASIA,Temperate Zone,2013/01,21.0,35,346.7,16509
+Beijing,China,ASIA,Temperate Zone,2014/01,21.5,35,387.2,18009
+Beijing,China,ASIA,Temperate Zone,2014/12,21.7,35,420.9,19396
+Beijing,China,ASIA,Temperate Zone,2015/01,21.8,36,423.5,19420
+Beijing,China,ASIA,Temperate Zone,2016/01,21.9,36,448.9,20498
+Beijing,China,ASIA,Temperate Zone,2017/01,21.8,36,478.4,21945
+Beijing,China,ASIA,Temperate Zone,2018/01,21.7,37,510.9,23544
+Beijing,China,ASIA,Temperate Zone,2019/01,21.6,37,542.4,25111
+Beijing,China,ASIA,Temperate Zone,2020/01,21.5,38,565.4,26300
+Beijing,China,ASIA,Temperate Zone,2023/06,21.1,39,638.1,30242
+New Delhi,India,ASIA,Subtropical Zone,2000/01,13.8,22,23.1,1674
+New Delhi,India,ASIA,Subtropical Zone,2001/01,14.5,22,25.6,1766
+New Delhi,India,ASIA,Subtropical Zone,2002/12,15.8,22,31.7,2006
+New Delhi,India,ASIA,Subtropical Zone,2007/01,19.3,23,54.8,2839
+New Delhi,India,ASIA,Subtropical Zone,2008/04,20.3,23,61.9,3049
+New Delhi,India,ASIA,Subtropical Zone,2008/06,20.5,23,62.8,3063
+New Delhi,India,ASIA,Subtropical Zone,2009/01,21.0,24,67.6,3219
+New Delhi,India,ASIA,Subtropical Zone,2014/06,25.3,26,108.3,4281
+New Delhi,India,ASIA,Subtropical Zone,2022/01,31.1,28,158.8,5106
+Shenzhen,China,ASIA,Subtropical Zone,2004/12,9.7,29,56.0,5773
+Shenzhen,China,ASIA,Subtropical Zone,2005/01,9.8,29,56.8,5796
+Shenzhen,China,ASIA,Subtropical Zone,2008/06,10.6,30,96.3,9085
+Shenzhen,China,ASIA,Subtropical Zone,2009/01,10.7,30,103.5,9673
+Shenzhen,China,ASIA,Subtropical Zone,2010/01,10.9,31,123.7,11349
+Shenzhen,China,ASIA,Subtropical Zone,2014/06,12.0,32,224.2,18683
+Shenzhen,China,ASIA,Subtropical Zone,2015/01,12.1,32,240.2,19851
+Shenzhen,China,ASIA,Subtropical Zone,2016/01,12.3,32,277.6,22569
+Shenzhen,China,ASIA,Subtropical Zone,2016/10,12.4,32,296.8,23935
+Tokio,Japan,ASIA,Temperate Zone,1960/12,9.7,29,20.0,2062
+Tokio,Japan,ASIA,Temperate Zone,1969/06,11.5,31,65.0,5652
+Tokio,Japan,ASIA,Temperate Zone,2001/04,12.2,38,705.4,57820
+Tokio,Japan,ASIA,Temperate Zone,2010/04,13.0,42,880.8,67754
+Tokio,Japan,ASIA,Temperate Zone,2014/01,13.3,44,978.2,73549
+Tokio,Japan,ASIA,Temperate Zone,2018/07,13.7,46,1065.7,77788
+Tokio,Japan,ASIA,Temperate Zone,2019/12,13.9,47,1087.0,78201
+Tokio,Japan,ASIA,Temperate Zone,2021/01,14.0,48,1027.0,73357
+Tokio,Japan,ASIA,Temperate Zone,2022/03,14.1,49,1030.0,73050
+Tokio,Japan,ASIA,Temperate Zone,2023/01,14.2,49,1035.0,72887
+Tokio,Japan,ASIA,Temperate Zone,2023/05,14.3,50,1038.0,72587
+Lima,Peru,SA,Subtropical Zone,2010/10,8.7,27,105.1,12080
+Lima,Peru,SA,Subtropical Zone,2012/04,9.0,28,121.7,13522
+Lima,Peru,SA,Subtropical Zone,2017/01,10.0,29,152.4,15240
+Lima,Peru,SA,Subtropical Zone,2020/01,10.5,30,165.2,15733
+Lima,Peru,SA,Subtropical Zone,2021/04,10.8,30,174.1,16120
+Lima,Peru,SA,Subtropical Zone,2022/01,11.0,31,180.5,16409
+Lima,Peru,SA,Subtropical Zone,2022/07,11.1,31,184.2,16595
+Lima,Peru,SA,Subtropical Zone,2023/01,11.2,32,187.9,16777
+Lima,Peru,SA,Subtropical Zone,2023/04,11.3,32,190.2,16832
+Lima,Peru,SA,Subtropical Zone,2023/10,11.4,32,194.5,17061
+Mumbai,India,ASIA,Tropical Zone,2005/01,17.2,23,55.0,3198
+Mumbai,India,ASIA,Tropical Zone,2009/05,18.8,24,80.5,4282
+Mumbai,India,ASIA,Tropical Zone,2017/01,21.5,27,150.3,6991
+Mumbai,India,ASIA,Tropical Zone,2018/09,21.9,27,169.2,7726
+Mumbai,India,ASIA,Tropical Zone,2020/01,22.3,28,187.8,8422
+Mumbai,India,ASIA,Tropical Zone,2021/06,22.6,28,198.5,8783
+Mumbai,India,ASIA,Tropical Zone,2022/04,22.8,29,211.5,9276
+Mumbai,India,ASIA,Tropical Zone,2023/12,23.3,29,235.0,10086
+Bengaluru,India,ASIA,Tropical Zone,2011/10,8.1,25,58.8,7259
+Bengaluru,India,ASIA,Tropical Zone,2014/03,9.0,26,75.9,8433
+Bengaluru,India,ASIA,Tropical Zone,2015/01,9.3,26,85.2,9161
+Bengaluru,India,ASIA,Tropical Zone,2015/06,9.5,26,89.5,9421
+Bengaluru,India,ASIA,Tropical Zone,2016/01,9.7,26,97.7,10072
+Bengaluru,India,ASIA,Tropical Zone,2017/01,10.1,27,110.2,10911
+Bengaluru,India,ASIA,Tropical Zone,2017/06,10.3,27,115.5,11214
+Bengaluru,India,ASIA,Tropical Zone,2018/01,10.5,27,123.6,11771
+Bengaluru,India,ASIA,Tropical Zone,2019/01,10.8,28,138.8,12852
+Bengaluru,India,ASIA,Tropical Zone,2021/08,11.5,28,159.2,13843
+Bengaluru,India,ASIA,Tropical Zone,2023/03,12.0,29,183.0,15250
+São Paulo,Brazil,SA,Subtropical Zone,2010/05,20.0,30,225.2,11260
+São Paulo,Brazil,SA,Subtropical Zone,2013/01,20.8,31,273.9,13168
+São Paulo,Brazil,SA,Subtropical Zone,2014/01,21.1,32,284.1,13464
+São Paulo,Brazil,SA,Subtropical Zone,2014/07,21.3,32,290.7,13648
+São Paulo,Brazil,SA,Subtropical Zone,2014/08,21.3,32,291.6,13702
+São Paulo,Brazil,SA,Subtropical Zone,2015/01,21.5,33,288.0,13395
+São Paulo,Brazil,SA,Subtropical Zone,2016/01,21.8,33,275.6,12642
+São Paulo,Brazil,SA,Subtropical Zone,2017/01,22.1,34,291.9,13208
+São Paulo,Brazil,SA,Subtropical Zone,2018/01,22.4,34,310.8,13875
+Ho Chi Minh City,Vietnam,ASIA,Tropical Zone,2004/01,6.5,25,11.5,1769
+Ho Chi Minh City,Vietnam,ASIA,Tropical Zone,2010/01,7.5,27,24.2,3227
+Ho Chi Minh City,Vietnam,ASIA,Tropical Zone,2011/03,7.7,28,27.9,3623
+Ho Chi Minh City,Vietnam,ASIA,Tropical Zone,2012/08,8.0,28,32.3,4038
+Ho Chi Minh City,Vietnam,ASIA,Tropical Zone,2013/04,8.2,29,35.7,4354
+Ho Chi Minh City,Vietnam,ASIA,Tropical Zone,2015/01,8.5,29,42.5,5000
+Ho Chi Minh City,Vietnam,ASIA,Tropical Zone,2015/04,8.6,29,43.5,5058
+Ho Chi Minh City,Vietnam,ASIA,Tropical Zone,2018/01,9.0,30,55.1,6122
+Ho Chi Minh City,Vietnam,ASIA,Tropical Zone,2019/01,9.2,30,60.8,6609
+Ho Chi Minh City,Vietnam,ASIA,Tropical Zone,2019/02,9.2,30,61.4,6674
+Ho Chi Minh City,Vietnam,ASIA,Tropical Zone,2020/01,9.3,31,63.6,6839
+Ho Chi Minh City,Vietnam,ASIA,Tropical Zone,2021/04,9.5,31,67.8,7137
+Jakarta,Indonesia,ASIA,Tropical Zone,2004/01,13.0,24,33.0,2538
+Jakarta,Indonesia,ASIA,Tropical Zone,2009/01,15.0,26,71.0,4733
+Jakarta,Indonesia,ASIA,Tropical Zone,2010/01,15.6,26,81.5,5224
+Jakarta,Indonesia,ASIA,Tropical Zone,2012/01,16.6,27,109.8,6614
+Jakarta,Indonesia,ASIA,Tropical Zone,2013/10,17.4,28,129.5,7443
+Jakarta,Indonesia,ASIA,Tropical Zone,2015/01,18.0,28,144.0,8000
+Jakarta,Indonesia,ASIA,Tropical Zone,2015/09,18.2,28,150.5,8269
+Jakarta,Indonesia,ASIA,Tropical Zone,2017/01,18.7,29,168.0,8984
+Jakarta,Indonesia,ASIA,Tropical Zone,2018/01,19.0,29,184.2,9695
+Jakarta,Indonesia,ASIA,Tropical Zone,2019/01,19.3,29,200.5,10389
+Jakarta,Indonesia,ASIA,Tropical Zone,2020/01,19.6,30,212.0,10816
+Jakarta,Indonesia,ASIA,Tropical Zone,2020/04,19.7,30,215.1,10919
+Jakarta,Indonesia,ASIA,Tropical Zone,2021/01,19.9,30,224.5,11281
+Jakarta,Indonesia,ASIA,Tropical Zone,2021/04,20.0,30,228.0,11400
+Jakarta,Indonesia,ASIA,Tropical Zone,2022/02,20.2,31,241.0,11931
+Jakarta,Indonesia,ASIA,Tropical Zone,2022/08,20.4,31,250.0,12255
+Chengdu,China,ASIA,Subtropical Zone,2010/01,13.4,32,71.0,5299
+Chengdu,China,ASIA,Subtropical Zone,2010/09,13.7,32,77.3,5642
+Chengdu,China,ASIA,Subtropical Zone,2011/01,13.8,32,83.4,6043
+Chengdu,China,ASIA,Subtropical Zone,2012/01,14.0,33,100.9,7207
+Chengdu,China,ASIA,Subtropical Zone,2014/10,14.8,34,178.6,12068
+Chengdu,China,ASIA,Subtropical Zone,2015/01,14.9,34,188.8,12671
+Chengdu,China,ASIA,Subtropical Zone,2017/01,15.7,35,228.6,14560
+Chengdu,China,ASIA,Subtropical Zone,2018/01,16.0,36,259.9,16244
+Chengdu,China,ASIA,Subtropical Zone,2020/12,16.9,37,298.6,17672
+Bangkok,Thailand,ASIA,Tropical Zone,1999/12,9.6,30,81.0,8438
+Bangkok,Thailand,ASIA,Tropical Zone,2004/07,10.2,33,103.5,10147
+Bangkok,Thailand,ASIA,Tropical Zone,2007/01,10.7,35,123.5,11542
+Bangkok,Thailand,ASIA,Tropical Zone,2010/01,11.3,37,148.0,13097
+Bangkok,Thailand,ASIA,Tropical Zone,2010/08,11.4,37,151.0,13246
+Bangkok,Thailand,ASIA,Tropical Zone,2011/08,11.6,38,160.0,13793
+Bangkok,Thailand,ASIA,Tropical Zone,2015/01,12.2,40,195.0,15984
+Bangkok,Thailand,ASIA,Tropical Zone,2016/08,12.5,41,208.5,16680
+Bangkok,Thailand,ASIA,Tropical Zone,2018/01,12.8,42,225.0,17578
+Bangkok,Thailand,ASIA,Tropical Zone,2020/01,13.1,43,240.5,18359
+Bangkok,Thailand,ASIA,Tropical Zone,2021/01,13.2,43,245.0,18561
+Bangkok,Thailand,ASIA,Tropical Zone,2022/01,13.3,44,250.5,18835
+Bangkok,Thailand,ASIA,Tropical Zone,2023/06,13.6,45,263.0,19338
+Bangkok,Thailand,ASIA,Tropical Zone,2023/07,13.6,45,264.0,19412
+Kuala Lumpur,Malaysia,ASIA,Tropical Zone,2001/01,3.7,26,20.0,5405
+Kuala Lumpur,Malaysia,ASIA,Tropical Zone,2007/01,4.5,27,37.3,8289
+Kuala Lumpur,Malaysia,ASIA,Tropical Zone,2010/01,5.1,28,48.0,9412
+Kuala Lumpur,Malaysia,ASIA,Tropical Zone,2011/01,5.3,28,51.8,9774
+Kuala Lumpur,Malaysia,ASIA,Tropical Zone,2011/11,5.5,28,55.4,10073
+Kuala Lumpur,Malaysia,ASIA,Tropical Zone,2015/01,6.3,29,71.0,11270
+Kuala Lumpur,Malaysia,ASIA,Tropical Zone,2016/06,6.5,30,76.5,11769
+Kuala Lumpur,Malaysia,ASIA,Tropical Zone,2017/01,6.6,30,80.0,12121
+Kuala Lumpur,Malaysia,ASIA,Tropical Zone,2017/07,6.8,30,83.0,12206
+Kuala Lumpur,Malaysia,ASIA,Tropical Zone,2019/01,7.2,31,94.5,13125
+Kuala Lumpur,Malaysia,ASIA,Tropical Zone,2020/01,7.4,31,98.6,13324
+Kuala Lumpur,Malaysia,ASIA,Tropical Zone,2022/06,7.8,32,108.5,13910
+Kuala Lumpur,Malaysia,ASIA,Tropical Zone,2023/03,7.9,32,112.5,14241
+Qingdao,China,ASIA,Temperate Zone,2012/01,8.8,38,105.8,12023
+Qingdao,China,ASIA,Temperate Zone,2013/01,9.0,38,126.9,14100
+Qingdao,China,ASIA,Temperate Zone,2015/01,9.3,39,150.0,16129
+Qingdao,China,ASIA,Temperate Zone,2015/12,9.4,39,160.7,17096
+Qingdao,China,ASIA,Temperate Zone,2016/01,9.4,39,162.2,17255
+Qingdao,China,ASIA,Temperate Zone,2016/08,9.5,39,171.1,18011
+Qingdao,China,ASIA,Temperate Zone,2018/01,9.6,40,189.5,19740
+Qingdao,China,ASIA,Temperate Zone,2020/01,9.9,41,215.3,21747
+Cairo,Egypt,AFR,Subtropical Zone,1987/09,8.8,20,38.0,4318
+Cairo,Egypt,AFR,Subtropical Zone,2010/01,16.9,24,105.0,6213
+Cairo,Egypt,AFR,Subtropical Zone,2014/05,18.5,25,140.0,7568
+Cairo,Egypt,AFR,Subtropical Zone,2014/06,18.5,25,140.5,7595
+Cairo,Egypt,AFR,Subtropical Zone,2015/01,18.8,25,150.0,7979
+Cairo,Egypt,AFR,Subtropical Zone,2020/01,20.9,26,185.0,8852
+Cairo,Egypt,AFR,Subtropical Zone,2021/01,21.3,26,195.0,9155
+London,UK,EUR,Temperate Zone,2003/02,8.1,34,350.0,43210
+London,UK,EUR,Temperate Zone,2004/01,8.2,34,370.0,45122
+London,UK,EUR,Temperate Zone,2008/02,8.6,35,470.0,54651
+London,UK,EUR,Temperate Zone,2010/01,8.7,35,490.0,56322
+London,UK,EUR,Temperate Zone,2010/07,8.7,35,500.0,57471
+London,UK,EUR,Temperate Zone,2011/01,8.8,36,515.0,58523
+London,UK,EUR,Temperate Zone,2015/01,9.0,36,605.0,67222
+London,UK,EUR,Temperate Zone,2016/01,9.1,37,630.0,69231
+London,UK,EUR,Temperate Zone,2017/01,9.2,37,650.0,70652
+London,UK,EUR,Temperate Zone,2019/01,9.4,38,705.0,75000
+London,UK,EUR,Temperate Zone,2019/04,9.4,38,710.0,75532
+London,UK,EUR,Temperate Zone,2020/01,9.5,38,725.0,76316
+London,UK,EUR,Temperate Zone,2020/05,9.6,39,730.0,76042
+London,UK,EUR,Temperate Zone,2020/06,9.6,39,732.0,76250
+London,UK,EUR,Temperate Zone,2021/10,9.7,39,750.0,77320
+London,UK,EUR,Temperate Zone,2022/05,9.8,40,770.0,78571
+Seoul,South Korea,ASIA,Temperate Zone,2004/01,9.8,36,210.0,21429
+Seoul,South Korea,ASIA,Temperate Zone,2005/09,9.8,37,235.0,23980
+Seoul,South Korea,ASIA,Temperate Zone,2013/01,9.9,39,360.0,36364
+Seoul,South Korea,ASIA,Temperate Zone,2015/10,10.0,40,405.0,40500
+Seoul,South Korea,ASIA,Temperate Zone,2016/01,10.0,40,415.0,41500
+Seoul,South Korea,ASIA,Temperate Zone,2017/01,9.9,41,430.0,43434
+Seoul,South Korea,ASIA,Temperate Zone,2018/01,9.9,41,450.0,45455
+Seoul,South Korea,ASIA,Temperate Zone,2021/01,9.7,42,475.0,48969
+Seoul,South Korea,ASIA,Temperate Zone,2022/01,9.7,43,485.0,49897
+Seoul,South Korea,ASIA,Temperate Zone,2023/01,9.6,44,495.0,51562
+Seoul,South Korea,ASIA,Temperate Zone,2024/01,9.6,44,505.0,52604
+Nanjing,China,ASIA,Temperate Zone,2005/01,6.5,33,31.2,4800
+Nanjing,China,ASIA,Temperate Zone,2005/09,6.6,33,35.3,5348
+Nanjing,China,ASIA,Temperate Zone,2010/01,7.2,35,76.5,10625
+Nanjing,China,ASIA,Temperate Zone,2012/01,7.4,36,105.7,14284
+Nanjing,China,ASIA,Temperate Zone,2014/01,7.8,37,133.0,17051
+Nanjing,China,ASIA,Temperate Zone,2015/01,7.9,37,144.5,18291
+Nanjing,China,ASIA,Temperate Zone,2016/01,8.0,38,155.0,19375
+Nanjing,China,ASIA,Temperate Zone,2018/01,8.4,39,186.0,22143
+Mexico City,Mexico,NA,Tropical Zone,2005/06,18.7,26,170.0,9091
+Mexico City,Mexico,NA,Tropical Zone,2007/01,19.2,27,192.0,10000
+Mexico City,Mexico,NA,Tropical Zone,2008/01,19.4,27,205.0,10567
+Mexico City,Mexico,NA,Tropical Zone,2010/01,20.1,28,230.0,11443
+Mexico City,Mexico,NA,Tropical Zone,2010/02,20.1,28,231.0,11493
+Mexico City,Mexico,NA,Tropical Zone,2014/01,21.0,30,270.0,12857
+Mexico City,Mexico,NA,Tropical Zone,2019/01,21.8,32,320.0,14679
+Mexico City,Mexico,NA,Tropical Zone,2020/01,22.1,32,335.0,15158
+Dhaka,Bangladesh,ASIA,Tropical Zone,2004/01,11.8,21,19.5,1653
+Dhaka,Bangladesh,ASIA,Tropical Zone,2005/01,12.2,21,21.5,1762
+Dhaka,Bangladesh,ASIA,Tropical Zone,2010/01,14.7,23,43.0,2925
+Dhaka,Bangladesh,ASIA,Tropical Zone,2015/01,17.6,24,75.0,4261
+Dhaka,Bangladesh,ASIA,Tropical Zone,2016/06,18.5,25,87.0,4703
+Dhaka,Bangladesh,ASIA,Tropical Zone,2022/12,21.8,28,155.0,7110
+New York City,USA,NA,Temperate Zone,1894/01,3.0,26,1.9,633
+New York City,USA,NA,Temperate Zone,1990/01,7.3,33,350.0,47945
+New York City,USA,NA,Temperate Zone,2007/01,8.3,35,780.0,93976
+New York City,USA,NA,Temperate Zone,2008/01,8.4,36,810.0,96429
+New York City,USA,NA,Temperate Zone,2010/01,8.5,36,870.0,102353
+New York City,USA,NA,Temperate Zone,2013/05,8.6,37,960.0,111628
+New York City,USA,NA,Temperate Zone,2014/01,8.6,37,990.0,115116
+New York City,USA,NA,Temperate Zone,2015/01,8.7,38,1030.0,118391
+New York City,USA,NA,Temperate Zone,2019/01,8.8,38,1180.0,134091
+New York City,USA,NA,Temperate Zone,2019/07,8.8,38,1190.0,135227
+New York City,USA,NA,Temperate Zone,2020/01,8.9,39,1210.0,135955
+Ahmedabad,India,ASIA,Tropical Zone,2005/01,5.1,23,19.3,3784
+Ahmedabad,India,ASIA,Tropical Zone,2009/01,6.0,24,30.0,5000
+Ahmedabad,India,ASIA,Tropical Zone,2009/10,6.2,24,33.0,5323
+Ahmedabad,India,ASIA,Tropical Zone,2009/12,6.2,24,33.7,5435
+Ahmedabad,India,ASIA,Tropical Zone,2010/01,6.3,25,34.0,5397
+Ahmedabad,India,ASIA,Tropical Zone,2012/09,6.7,25,44.5,6642
+Ahmedabad,India,ASIA,Tropical Zone,2015/01,7.2,26,55.0,7639
+Bogotá,Colombia,SA,Tropical Zone,1982/01,4.7,21,14.5,3085
+Bogotá,Colombia,SA,Tropical Zone,1998/01,6.3,23,31.0,4921
+Bogotá,Colombia,SA,Tropical Zone,1998/06,6.3,23,32.0,5079
+Bogotá,Colombia,SA,Tropical Zone,2000/01,6.5,23,35.0,5385
+Bogotá,Colombia,SA,Tropical Zone,2000/02,6.5,23,35.1,5400
+Bogotá,Colombia,SA,Tropical Zone,2000/12,6.7,24,37.0,5522
+Bogotá,Colombia,SA,Tropical Zone,2008/01,7.5,26,60.0,8000
+Bogotá,Colombia,SA,Tropical Zone,2009/01,7.6,26,63.0,8289
+Bogotá,Colombia,SA,Tropical Zone,2011/01,7.8,27,72.0,9231
+Bogotá,Colombia,SA,Tropical Zone,2016/03,8.1,28,90.0,11111
+Bogotá,Colombia,SA,Tropical Zone,2016/12,8.2,28,93.0,11341
+Bogotá,Colombia,SA,Tropical Zone,2018/12,8.4,29,101.0,12024
+Bogotá,Colombia,SA,Tropical Zone,2019/01,8.4,29,102.0,12143
+Bogotá,Colombia,SA,Tropical Zone,2022/05,8.8,30,115.0,13068
+Hong Kong,China,ASIA,Subtropical Zone,1976/01,4.4,26,16.5,3750
+Hong Kong,China,ASIA,Subtropical Zone,1979/10,4.8,28,26.0,5417
+Hong Kong,China,ASIA,Subtropical Zone,2000/01,6.7,37,175.0,26119
+Hong Kong,China,ASIA,Subtropical Zone,2001/01,6.7,37,178.0,26567
+Hong Kong,China,ASIA,Subtropical Zone,2010/01,7.0,40,240.0,34286
+Hong Kong,China,ASIA,Subtropical Zone,2012/09,7.1,41,275.0,38732
+Hong Kong,China,ASIA,Subtropical Zone,2018/01,7.4,43,365.0,49324
+Hong Kong,China,ASIA,Subtropical Zone,2020/01,7.5,44,369.0,49200
+Hong Kong,China,ASIA,Subtropical Zone,2020/02,7.5,44,369.5,49267
+Hong Kong,China,ASIA,Subtropical Zone,2020/10,7.5,45,372.0,49600
+Hong Kong,China,ASIA,Subtropical Zone,2022/06,7.4,46,368.0,49730
+Hong Kong,China,ASIA,Subtropical Zone,2023/01,7.4,47,375.0,50676
+Chennai,India,ASIA,Tropical Zone,2004/01,6.5,23,28.0,4308
+Chennai,India,ASIA,Tropical Zone,2011/01,8.0,25,56.0,7000
+Chennai,India,ASIA,Tropical Zone,2012/01,8.2,25,62.0,7561
+Chennai,India,ASIA,Tropical Zone,2015/01,8.7,26,78.6,9034
+Chennai,India,ASIA,Tropical Zone,2015/06,8.8,26,81.8,9295
+Chennai,India,ASIA,Tropical Zone,2018/12,9.3,28,105.0,11290
+Chennai,India,ASIA,Tropical Zone,2019/01,9.4,28,106.0,11277
+Chennai,India,ASIA,Tropical Zone,2020/01,9.5,29,112.0,11789
+Chennai,India,ASIA,Tropical Zone,2023/01,10.1,30,135.0,13366
+Chennai,India,ASIA,Tropical Zone,2023/06,10.2,30,138.0,13529
+Santiago,Chile,SA,Temperate Zone,1990/01,4.5,24,25.0,5556
+Santiago,Chile,SA,Temperate Zone,1997/01,5.2,27,45.0,8654
+Santiago,Chile,SA,Temperate Zone,2006/01,6.0,29,75.0,12500
+Santiago,Chile,SA,Temperate Zone,2007/02,6.1,29,82.0,13443
+Santiago,Chile,SA,Temperate Zone,2009/06,6.3,30,95.0,15079
+Santiago,Chile,SA,Temperate Zone,2010/01,6.4,30,100.0,15625
+Santiago,Chile,SA,Temperate Zone,2010/06,6.5,30,105.0,16154
+Santiago,Chile,SA,Temperate Zone,2014/01,6.9,32,130.0,18841
+Santiago,Chile,SA,Temperate Zone,2014/06,7.0,32,132.5,18929
+Santiago,Chile,SA,Temperate Zone,2015/01,7.0,33,135.0,19286
+Santiago,Chile,SA,Temperate Zone,2015/06,7.1,33,137.0,19296
+Santiago,Chile,SA,Temperate Zone,2016/01,7.2,33,140.0,19444
+Santiago,Chile,SA,Temperate Zone,2016/07,7.2,34,142.5,19792
+Santiago,Chile,SA,Temperate Zone,2017/01,7.3,34,145.0,19863
+Santiago,Chile,SA,Temperate Zone,2017/11,7.4,34,150.0,20270
+Santiago,Chile,SA,Temperate Zone,2018/01,7.4,35,152.0,20541
+Santiago,Chile,SA,Temperate Zone,2019/01,7.5,35,160.0,21333
+Rio de Janeiro,Brazil,SA,Tropical Zone,1986/01,10.0,26,45.0,4500
+Rio de Janeiro,Brazil,SA,Tropical Zone,2010/01,11.8,30,150.0,12712
+Rio de Janeiro,Brazil,SA,Tropical Zone,2011/01,12.0,30,165.0,13750
+Rio de Janeiro,Brazil,SA,Tropical Zone,2011/03,12.0,30,167.0,13917
+Rio de Janeiro,Brazil,SA,Tropical Zone,2012/01,12.2,31,180.0,14754
+Rio de Janeiro,Brazil,SA,Tropical Zone,2012/06,12.3,31,185.0,15041
+Rio de Janeiro,Brazil,SA,Tropical Zone,2014/03,12.5,32,205.0,16400
+Rio de Janeiro,Brazil,SA,Tropical Zone,2014/06,12.6,32,207.0,16429
+Rio de Janeiro,Brazil,SA,Tropical Zone,2015/01,12.7,33,200.0,15748
+Rio de Janeiro,Brazil,SA,Tropical Zone,2016/06,12.9,33,195.0,15116
+Rio de Janeiro,Brazil,SA,Tropical Zone,2016/07,12.9,33,196.0,15194
+Rio de Janeiro,Brazil,SA,Tropical Zone,2022/01,13.4,35,210.0,15672
+Rio de Janeiro,Brazil,SA,Tropical Zone,2024/07,13.6,36,225.0,16544
+Kolkata,India,ASIA,Tropical Zone,2009/08,14.6,24,53.0,3630
+Kolkata,India,ASIA,Tropical Zone,2010/01,14.7,24,55.0,3741
+Kolkata,India,ASIA,Tropical Zone,2011/01,15.0,25,60.0,4000
+Kolkata,India,ASIA,Tropical Zone,2012/01,15.2,25,66.0,4342
+Kolkata,India,ASIA,Tropical Zone,2013/01,15.4,25,72.0,4675
+Kolkata,India,ASIA,Tropical Zone,2013/07,15.5,25,75.0,4839
+Kolkata,India,ASIA,Tropical Zone,2014/01,15.6,26,79.0,5064
+Kolkata,India,ASIA,Tropical Zone,2015/01,15.8,26,86.0,5443
+Kolkata,India,ASIA,Tropical Zone,2017/12,16.2,27,105.0,6481
+Kolkata,India,ASIA,Tropical Zone,2018/01,16.3,27,106.5,6534
+Kolkata,India,ASIA,Tropical Zone,2020/01,16.6,28,118.0,7108
+Kolkata,India,ASIA,Tropical Zone,2020/02,16.6,28,118.5,7139
+Kolkata,India,ASIA,Tropical Zone,2022/07,17.0,29,135.0,7941
+Kolkata,India,ASIA,Tropical Zone,2022/12,17.1,29,140.0,8187
+Johannesburg,South Africa,AFR,Subtropical Zone,2007/01,3.8,25,60.0,15789
+Johannesburg,South Africa,AFR,Subtropical Zone,2009/01,4.0,26,70.0,17500
+Johannesburg,South Africa,AFR,Subtropical Zone,2009/08,4.1,26,73.0,17805
+Johannesburg,South Africa,AFR,Subtropical Zone,2010/01,4.1,26,75.0,18293
+Johannesburg,South Africa,AFR,Subtropical Zone,2010/06,4.2,26,77.0,18333
+Johannesburg,South Africa,AFR,Subtropical Zone,2011/01,4.3,26,80.0,18605
+Johannesburg,South Africa,AFR,Subtropical Zone,2013/01,4.6,27,88.0,19130
+Johannesburg,South Africa,AFR,Subtropical Zone,2013/10,4.7,27,91.0,19362
+Johannesburg,South Africa,AFR,Subtropical Zone,2015/01,4.9,28,98.0,20000
+Johannesburg,South Africa,AFR,Subtropical Zone,2020/01,5.6,30,110.0,19643
+Singapore,Singapore,ASIA,Tropical Zone,2000/01,4.0,34,130.0,32500
+Singapore,Singapore,ASIA,Tropical Zone,2005/01,4.4,36,170.0,38636
+Singapore,Singapore,ASIA,Tropical Zone,2008/01,4.8,38,220.0,45833
+Singapore,Singapore,ASIA,Tropical Zone,2009/01,4.9,39,215.0,43878
+Singapore,Singapore,ASIA,Tropical Zone,2010/01,5.1,40,250.0,49020
+Singapore,Singapore,ASIA,Tropical Zone,2012/06,5.3,40,290.0,54717
+Singapore,Singapore,ASIA,Tropical Zone,2013/01,5.4,41,300.0,55556
+Singapore,Singapore,ASIA,Tropical Zone,2015/01,5.5,42,325.0,59091
+Singapore,Singapore,ASIA,Tropical Zone,2016/01,5.6,43,330.0,58929
+Singapore,Singapore,ASIA,Tropical Zone,2018/01,5.7,44,360.0,63158
+Singapore,Singapore,ASIA,Tropical Zone,2020/01,5.8,45,370.0,63793
+Singapore,Singapore,ASIA,Tropical Zone,2022/06,5.9,46,405.0,68644
+Hanoi,Vietnam,ASIA,Subtropical Zone,2010/01,6.6,26,17.5,2652
+Hanoi,Vietnam,ASIA,Subtropical Zone,2014/01,7.2,28,26.5,3681
+Hanoi,Vietnam,ASIA,Subtropical Zone,2015/01,7.4,28,29.8,4027
+Hanoi,Vietnam,ASIA,Subtropical Zone,2016/01,7.6,29,33.5,4408
+Hanoi,Vietnam,ASIA,Subtropical Zone,2017/01,7.8,29,37.0,4744
+Hanoi,Vietnam,ASIA,Subtropical Zone,2020/01,8.2,30,46.0,5610
+Hanoi,Vietnam,ASIA,Subtropical Zone,2021/11,8.4,30,50.5,6012
+Hanoi,Vietnam,ASIA,Subtropical Zone,2023/01,8.6,31,56.0,6512
+Sydney,Australia,OCEA,Temperate Zone,2007/01,4.4,36,190.0,43182
+Sydney,Australia,OCEA,Temperate Zone,2010/01,4.6,37,235.0,51087
+Sydney,Australia,OCEA,Temperate Zone,2011/01,4.7,37,250.0,53191
+Sydney,Australia,OCEA,Temperate Zone,2012/01,4.8,37,265.0,55208
+Sydney,Australia,OCEA,Temperate Zone,2013/01,4.9,38,280.0,57143
+Sydney,Australia,OCEA,Temperate Zone,2014/01,5.0,38,300.0,60000
+Sydney,Australia,OCEA,Temperate Zone,2015/01,5.1,38,320.0,62745
+Sydney,Australia,OCEA,Temperate Zone,2017/01,5.2,39,355.0,68269
+Sydney,Australia,OCEA,Temperate Zone,2018/01,5.3,39,375.0,70755
+Sydney,Australia,OCEA,Temperate Zone,2020/01,5.5,40,405.0,73636
+Sydney,Australia,OCEA,Temperate Zone,2023/01,5.7,40,445.0,78070
+Nairobi,Kenya,AFR,Tropical Zone,2010/01,3.3,20,38.0,11515
+Nairobi,Kenya,AFR,Tropical Zone,2012/01,3.6,20,43.0,11944
+Nairobi,Kenya,AFR,Tropical Zone,2015/01,3.9,20,50.0,12821
+Nairobi,Kenya,AFR,Tropical Zone,2016/01,4.0,20,53.0,13250
+Nairobi,Kenya,AFR,Tropical Zone,2018/01,4.2,20,59.0,14048
+Nairobi,Kenya,AFR,Tropical Zone,2021/01,4.6,20,67.0,14565
+Melbourne,Australia,OCEA,Temperate Zone,1993/01,3.1,34,55.0,17742
+Melbourne,Australia,OCEA,Temperate Zone,2009/01,4.0,36,130.0,32500
+Melbourne,Australia,OCEA,Temperate Zone,2010/01,4.1,36,145.0,35366
+Melbourne,Australia,OCEA,Temperate Zone,2011/01,4.2,37,160.0,38095
+Melbourne,Australia,OCEA,Temperate Zone,2012/01,4.3,37,175.0,40698
+Melbourne,Australia,OCEA,Temperate Zone,2015/01,4.6,37,210.0,45652
+Melbourne,Australia,OCEA,Temperate Zone,2017/01,4.8,38,240.0,50000
+Melbourne,Australia,OCEA,Temperate Zone,2018/01,4.9,38,260.0,53061
+Melbourne,Australia,OCEA,Temperate Zone,2019/01,5.0,39,275.0,55000
+Melbourne,Australia,OCEA,Temperate Zone,2020/01,5.1,39,290.0,56863
+Addis Ababa,Ethiopia,AFR,Tropical Zone,2015/01,3.4,20,14.5,4265
+Addis Ababa,Ethiopia,AFR,Tropical Zone,2015/09,3.5,20,15.0,4286
+Addis Ababa,Ethiopia,AFR,Tropical Zone,2015/11,3.5,20,15.2,4343
+Addis Ababa,Ethiopia,AFR,Tropical Zone,2018/01,3.8,20,18.0,4737
+Addis Ababa,Ethiopia,AFR,Tropical Zone,2019/01,4.0,20,19.5,4875
+Addis Ababa,Ethiopia,AFR,Tropical Zone,2020/01,4.1,20,21.0,5122
+Addis Ababa,Ethiopia,AFR,Tropical Zone,2020/06,4.2,20,22.0,5238
+Addis Ababa,Ethiopia,AFR,Tropical Zone,2022/01,4.5,20,25.0,5556
+Addis Ababa,Ethiopia,AFR,Tropical Zone,2023/01,4.7,21,28.0,5957
+Addis Ababa,Ethiopia,AFR,Tropical Zone,2024/04,4.9,21,31.0,6327
+Amman,Jordan,ASIA,Subtropical Zone,2010/01,2.5,22,23.5,9400
+Amman,Jordan,ASIA,Subtropical Zone,2011/01,2.6,22,25.0,9615
+Amman,Jordan,ASIA,Subtropical Zone,2015/01,3.0,23,32.0,10667
+Amman,Jordan,ASIA,Subtropical Zone,2016/01,3.1,23,33.5,10806
+Amman,Jordan,ASIA,Subtropical Zone,2017/01,3.2,23,35.0,10938
+Amman,Jordan,ASIA,Subtropical Zone,2018/01,3.3,24,36.0,10909
+Amman,Jordan,ASIA,Subtropical Zone,2019/01,3.4,24,37.5,11029
+Amman,Jordan,ASIA,Subtropical Zone,2020/01,3.5,24,38.0,10857
+Amman,Jordan,ASIA,Subtropical Zone,2021/07,3.6,25,39.5,10972
+Amman,Jordan,ASIA,Subtropical Zone,2022/08,3.7,25,41.0,11081
+Cape Town,South Africa,AFR,Temperate Zone,2010/01,3.6,26,45.0,12500
+Cape Town,South Africa,AFR,Temperate Zone,2010/05,3.6,26,46.0,12778
+Cape Town,South Africa,AFR,Temperate Zone,2012/01,3.8,27,50.0,13158
+Cape Town,South Africa,AFR,Temperate Zone,2013/01,3.9,27,53.0,13590
+Cape Town,South Africa,AFR,Temperate Zone,2015/01,4.1,28,59.0,14390
+Cape Town,South Africa,AFR,Temperate Zone,2016/01,4.2,28,62.0,14762
+Cape Town,South Africa,AFR,Temperate Zone,2018/01,4.4,29,68.0,15455
+Cape Town,South Africa,AFR,Temperate Zone,2021/01,4.7,30,76.0,16170
+Cape Town,South Africa,AFR,Temperate Zone,2022/01,4.8,30,80.0,16667
+Cape Town,South Africa,AFR,Temperate Zone,2024/01,5.0,31,88.0,17600
+Los Angeles,USA,NA,Subtropical Zone,2006/01,12.7,35,590.0,46457
+Los Angeles,USA,NA,Subtropical Zone,2007/01,12.8,35,620.0,48438
+Los Angeles,USA,NA,Subtropical Zone,2008/01,12.9,35,640.0,49612
+Los Angeles,USA,NA,Subtropical Zone,2009/01,13.0,36,635.0,48846
+Los Angeles,USA,NA,Subtropical Zone,2010/01,13.1,36,650.0,49618
+Los Angeles,USA,NA,Subtropical Zone,2010/03,13.1,36,655.0,50000
+Los Angeles,USA,NA,Subtropical Zone,2011/01,13.2,36,680.0,51515
+Los Angeles,USA,NA,Subtropical Zone,2012/01,13.3,37,710.0,53383
+Los Angeles,USA,NA,Subtropical Zone,2013/01,13.4,37,750.0,55970
+Los Angeles,USA,NA,Subtropical Zone,2013/10,13.5,37,780.0,57778
+Los Angeles,USA,NA,Subtropical Zone,2014/01,13.5,37,790.0,58519
+Los Angeles,USA,NA,Subtropical Zone,2015/01,13.6,38,830.0,61029
+Los Angeles,USA,NA,Subtropical Zone,2015/08,13.7,38,855.0,62409
+Los Angeles,USA,NA,Subtropical Zone,2015/09,13.7,38,860.0,62774
+Los Angeles,USA,NA,Subtropical Zone,2016/01,13.7,38,875.0,63869
+Los Angeles,USA,NA,Subtropical Zone,2016/07,13.8,38,900.0,65217
+Los Angeles,USA,NA,Subtropical Zone,2017/01,13.8,39,925.0,67029
+Los Angeles,USA,NA,Subtropical Zone,2018/01,13.9,39,970.0,69784
+Los Angeles,USA,NA,Subtropical Zone,2018/11,13.9,39,1000.0,71942
+Los Angeles,USA,NA,Subtropical Zone,2019/01,13.9,39,1010.0,72662
+Los Angeles,USA,NA,Subtropical Zone,2020/01,14.0,40,1050.0,75000
+Los Angeles,USA,NA,Subtropical Zone,2021/06,14.0,40,1090.0,77857
+Los Angeles,USA,NA,Subtropical Zone,2022/08,14.1,41,1130.0,80142
+Los Angeles,USA,NA,Subtropical Zone,2022/10,14.1,41,1140.0,80851
+Los Angeles,USA,NA,Subtropical Zone,2023/01,14.2,41,1150.0,81000
+Los Angeles,USA,NA,Subtropical Zone,2023/12,14.3,42,1180.0,82517
+Casablanca,Morocco,AFR,Subtropical Zone,2007/01,3.4,26,38.0,11176
+Casablanca,Morocco,AFR,Subtropical Zone,2012/01,3.8,28,49.0,12895
+Casablanca,Morocco,AFR,Subtropical Zone,2012/12,3.9,28,51.0,13077
+Casablanca,Morocco,AFR,Subtropical Zone,2014/01,4.0,29,56.0,14000
+Casablanca,Morocco,AFR,Subtropical Zone,2015/01,4.1,29,59.0,14390
+Casablanca,Morocco,AFR,Subtropical Zone,2016/01,4.2,30,62.5,14881
+Casablanca,Morocco,AFR,Subtropical Zone,2017/01,4.3,30,66.0,15349
+Casablanca,Morocco,AFR,Subtropical Zone,2018/01,4.4,31,70.0,15909
+Casablanca,Morocco,AFR,Subtropical Zone,2018/11,4.5,31,73.0,16222
+Casablanca,Morocco,AFR,Subtropical Zone,2019/01,4.5,31,74.0,16444
+Casablanca,Morocco,AFR,Subtropical Zone,2020/01,4.6,31,77.5,16848
+Casablanca,Morocco,AFR,Subtropical Zone,2021/01,4.7,32,80.0,17021
+Casablanca,Morocco,AFR,Subtropical Zone,2024/03,4.9,33,90.0,18367
+Casablanca,Morocco,AFR,Subtropical Zone,2024/09,5.0,33,92.0,18400
+Tshwane,South Africa,AFR,Subtropical Zone,2012/01,3.0,26,48.0,16000
+Tshwane,South Africa,AFR,Subtropical Zone,2014/11,3.2,27,55.0,17188
+Tshwane,South Africa,AFR,Subtropical Zone,2021/01,3.8,29,66.0,17368
+Tshwane,South Africa,AFR,Subtropical Zone,2021/09,3.9,29,67.5,17308
+Tshwane,South Africa,AFR,Subtropical Zone,2022/06,4.0,30,70.0,17500
+Tshwane,South Africa,AFR,Subtropical Zone,2024/01,4.2,31,75.0,17857
+Yokohama,Japan,ASIA,Temperate Zone,2009/01,3.6,41,120.0,33333
+Yokohama,Japan,ASIA,Temperate Zone,2011/01,3.7,42,128.0,34595
+Yokohama,Japan,ASIA,Temperate Zone,2015/01,3.7,44,140.0,37838
+Yokohama,Japan,ASIA,Temperate Zone,2018/01,3.7,45,150.0,40541
+Yokohama,Japan,ASIA,Temperate Zone,2020/01,3.8,46,155.0,40789
+Yokohama,Japan,ASIA,Temperate Zone,2022/05,3.8,47,159.0,41842
+Yokohama,Japan,ASIA,Temperate Zone,2023/11,3.8,48,162.0,42632
+Yokohama,Japan,ASIA,Temperate Zone,2024/03,3.8,48,163.0,42895
+Durban,South Africa,AFR,Tropical Zone,2012/01,3.4,26,40.0,11765
+Durban,South Africa,AFR,Tropical Zone,2013/01,3.5,26,42.0,12000
+Durban,South Africa,AFR,Tropical Zone,2015/01,3.7,27,45.0,12162
+Durban,South Africa,AFR,Tropical Zone,2020/01,4.2,29,52.0,12381
+Durban,South Africa,AFR,Tropical Zone,2021/01,4.3,29,54.0,12558
+Berlin,Germany,EUR,Temperate Zone,2013/01,3.5,43,145.0,41429
+Berlin,Germany,EUR,Temperate Zone,2017/01,3.7,43,165.0,44595
+Berlin,Germany,EUR,Temperate Zone,2018/01,3.7,44,175.0,47297
+Berlin,Germany,EUR,Temperate Zone,2019/01,3.8,44,180.0,47368
+Caracas,Venezuela,SA,Tropical Zone,1983/01,3.2,23,28.0,8750
+Caracas,Venezuela,SA,Tropical Zone,2000/01,4.0,24,45.0,11250
+Caracas,Venezuela,SA,Tropical Zone,2006/07,4.3,25,60.0,13953
+Caracas,Venezuela,SA,Tropical Zone,2006/11,4.3,25,61.0,14186
+Caracas,Venezuela,SA,Tropical Zone,2010/01,4.6,26,75.0,16304
+Caracas,Venezuela,SA,Tropical Zone,2015/01,5.0,28,68.0,13600
+Lusaka,Zambia,AFR,Tropical Zone,2017/01,3.0,17.9,5.0,1667
+Lusaka,Zambia,AFR,Tropical Zone,2020/01,3.2,16.9,5.7,1781
+Lusaka,Zambia,AFR,Tropical Zone,2021/01,3.3,17.3,6.0,1818
+Lusaka,Zambia,AFR,Tropical Zone,2022/01,3.4,17.3,6.5,1912
+Lusaka,Zambia,AFR,Tropical Zone,2023/01,3.5,17.5,7.0,2000
+Lusaka,Zambia,AFR,Tropical Zone,2023/07,3.6,17.5,7.2,2000
+Buenos Aires,Argentina,SA,Temperate Zone,2009/01,13.0,32,185.0,14231
+Buenos Aires,Argentina,SA,Temperate Zone,2010/01,13.2,32,210.0,15909
+Buenos Aires,Argentina,SA,Temperate Zone,2013/01,13.7,33,260.0,18978
+Buenos Aires,Argentina,SA,Temperate Zone,2013/07,13.7,33,265.0,19343
+Buenos Aires,Argentina,SA,Temperate Zone,2013/09,13.8,33,267.0,19348
+Buenos Aires,Argentina,SA,Temperate Zone,2016/01,14.1,34,280.0,19858
+Buenos Aires,Argentina,SA,Temperate Zone,2020/01,14.7,35,300.0,20408
+Toronto,Canada,NA,Temperate Zone,2009/01,5.6,38,300.0,53571
+Toronto,Canada,NA,Temperate Zone,2011/05,5.8,39,340.0,58621
+Toronto,Canada,NA,Temperate Zone,2013/05,6.0,39,380.0,63333
+Toronto,Canada,NA,Temperate Zone,2014/01,6.1,40,400.0,65574
+Toronto,Canada,NA,Temperate Zone,2015/01,6.2,40,420.0,67742
+Toronto,Canada,NA,Temperate Zone,2016/01,6.3,40,440.0,69841
+Toronto,Canada,NA,Temperate Zone,2016/06,6.4,40,450.0,70313
+Toronto,Canada,NA,Temperate Zone,2016/08,6.4,40,455.0,71094
+Toronto,Canada,NA,Temperate Zone,2017/01,6.5,41,470.0,72308
+Toronto,Canada,NA,Temperate Zone,2018/01,6.6,41,500.0,75758
+Toronto,Canada,NA,Temperate Zone,2020/01,6.8,41,550.0,80882
+Toronto,Canada,NA,Temperate Zone,2020/05,6.9,41,560.0,81159
+Toronto,Canada,NA,Temperate Zone,2022/01,7.1,42,610.0,85915
+Dubai,UAE,ASIA,Subtropical Zone,2008/01,1.5,30,80.0,53333
+Dubai,UAE,ASIA,Subtropical Zone,2009/09,1.8,31,85.0,47222
+Dubai,UAE,ASIA,Subtropical Zone,2011/01,2.0,32,95.0,47500
+Dubai,UAE,ASIA,Subtropical Zone,2011/09,2.1,32,100.0,47619
+Dubai,UAE,ASIA,Subtropical Zone,2013/10,2.3,33,115.0,50000
+Dubai,UAE,ASIA,Subtropical Zone,2014/11,2.4,33,125.0,52083
+Dubai,UAE,ASIA,Subtropical Zone,2015/01,2.5,34,130.0,52000
+Dubai,UAE,ASIA,Subtropical Zone,2016/01,2.6,34,138.0,53077
+Dubai,UAE,ASIA,Subtropical Zone,2019/01,3.2,35,165.0,51563
+Dubai,UAE,ASIA,Subtropical Zone,2020/01,3.4,36,170.0,50000
+Dubai,UAE,ASIA,Subtropical Zone,2021/05,3.6,36,178.0,49444
+Quezon City,Philippines,ASIA,Tropical Zone,2018/01,3.04,28.8,90.0,29605
+Quezon City,Philippines,ASIA,Tropical Zone,2019/01,3.08,29.3,98.0,31818
+Quezon City,Philippines,ASIA,Tropical Zone,2020/01,2.96,29.8,105.0,35473
+Quezon City,Philippines,ASIA,Tropical Zone,2021/01,3.00,30.3,112.0,37333
+Quezon City,Philippines,ASIA,Tropical Zone,2022/01,3.05,30.8,120.0,39344
+Quezon City,Philippines,ASIA,Tropical Zone,2023/01,3.10,31.3,127.0,40968
+Rome,Italy,EUR,Temperate Zone,2014/11,4.2,43,185.0,44048
+Rome,Italy,EUR,Temperate Zone,2015/01,4.2,43,190.0,45238
+Rome,Italy,EUR,Temperate Zone,2016/01,4.3,44,195.0,45349
+Rome,Italy,EUR,Temperate Zone,2018/01,4.4,45,205.0,46591
+Rome,Italy,EUR,Temperate Zone,2018/05,4.4,45,207.0,47045
+Rome,Italy,EUR,Temperate Zone,2019/01,4.4,45,210.0,47727
+Rome,Italy,EUR,Temperate Zone,2020/01,4.5,46,215.0,47778
+Rome,Italy,EUR,Temperate Zone,2020/05,4.5,46,216.0,48000
+Rome,Italy,EUR,Temperate Zone,2021/07,4.6,47,225.0,48913
+Rome,Italy,EUR,Temperate Zone,2023/02,4.6,48,235.0,51087
+Chicago,USA,NA,Temperate Zone,2008/01,9.40,35.0,550.0,58511
+Chicago,USA,NA,Temperate Zone,2011/01,9.45,35.5,580.0,61376
+Chicago,USA,NA,Temperate Zone,2013/06,9.50,36.0,620.0,65263
+Chicago,USA,NA,Temperate Zone,2014/01,9.51,36.0,640.0,67298
+Chicago,USA,NA,Temperate Zone,2015/01,9.53,36.5,670.0,70304
+Chicago,USA,NA,Temperate Zone,2017/01,9.55,37.0,720.0,75393
+Chicago,USA,NA,Temperate Zone,2019/01,9.56,37.5,780.0,81590
+Chicago,USA,NA,Temperate Zone,2020/01,9.57,38.0,800.0,83595
+Chicago,USA,NA,Temperate Zone,2020/04,9.58,38.0,805.0,83959
+Fortaleza,Brazil,SA,Tropical Zone,2014/01,3.7,28,45.0,12162
+Fortaleza,Brazil,SA,Tropical Zone,2015/01,3.8,28,47.0,12368
+Fortaleza,Brazil,SA,Tropical Zone,2016/01,3.8,29,48.5,12763
+Fortaleza,Brazil,SA,Tropical Zone,2017/01,3.9,29,51.0,13077
+Fortaleza,Brazil,SA,Tropical Zone,2018/01,4.0,30,54.0,13500
+Fortaleza,Brazil,SA,Tropical Zone,2023/01,4.3,32,65.0,15116
+Medellin,Colombia,SA,Tropical Zone,2003/01,3.4,25,18.0,5294
+Medellin,Colombia,SA,Tropical Zone,2004/01,3.5,25,19.5,5571
+Medellin,Colombia,SA,Tropical Zone,2008/01,3.8,26,27.0,7105
+Medellin,Colombia,SA,Tropical Zone,2010/01,4.0,27,32.0,8000
+Medellin,Colombia,SA,Tropical Zone,2011/01,4.1,27,35.0,8537
+Medellin,Colombia,SA,Tropical Zone,2015/01,4.5,29,46.0,10222
+Medellin,Colombia,SA,Tropical Zone,2016/01,4.6,29,49.0,10652
+Medellin,Colombia,SA,Tropical Zone,2017/01,4.7,30,52.0,11064
+Accra,Ghana,AFR,Tropical Zone,2008/01,3.4,22,18.0,5294
+Accra,Ghana,AFR,Tropical Zone,2009/01,3.5,22,20.0,5714
+Accra,Ghana,AFR,Tropical Zone,2010/01,3.6,22,22.0,6111
+Accra,Ghana,AFR,Tropical Zone,2012/01,3.8,22,27.0,7105
+Accra,Ghana,AFR,Tropical Zone,2013/01,3.9,22,30.0,7692
+Accra,Ghana,AFR,Tropical Zone,2014/01,4.0,23,33.0,8250
+Accra,Ghana,AFR,Tropical Zone,2015/01,4.1,23,36.0,8780
+Paris,France,EUR,Temperate Zone,2003/01,10.0,37,450.0,45000
+Paris,France,EUR,Temperate Zone,2008/01,10.4,38,550.0,52885
+Paris,France,EUR,Temperate Zone,2010/01,10.6,39,600.0,56604
+Paris,France,EUR,Temperate Zone,2015/01,10.9,40,680.0,62385
+Paris,France,EUR,Temperate Zone,2016/01,11.0,40,700.0,63636
+Paris,France,EUR,Temperate Zone,2019/01,11.1,41,750.0,67568
+Paris,France,EUR,Temperate Zone,2020/01,11.2,41,765.0,68304
+Paris,France,EUR,Temperate Zone,2020/05,11.2,41,770.0,68750
+Paris,France,EUR,Temperate Zone,2021/01,11.3,42,785.0,69469
+Paris,France,EUR,Temperate Zone,2021/08,11.3,42,795.0,70354
+Curitiba,Brazil,SA,Temperate Zone,1966/01,0.6,23,0.9,1500
+Curitiba,Brazil,SA,Temperate Zone,1974/01,1.0,24,2.5,2500
+Curitiba,Brazil,SA,Temperate Zone,1990/01,2.0,26,10.0,5000
+Curitiba,Brazil,SA,Temperate Zone,2009/01,3.4,30,42.0,12353
+Curitiba,Brazil,SA,Temperate Zone,2010/01,3.5,30,45.0,12857
+Curitiba,Brazil,SA,Temperate Zone,2011/01,3.6,31,48.0,13333
+Curitiba,Brazil,SA,Temperate Zone,2012/01,3.7,31,52.0,14054
+Curitiba,Brazil,SA,Temperate Zone,2013/01,3.8,32,55.0,14474
+Curitiba,Brazil,SA,Temperate Zone,2014/01,3.9,32,58.0,14872
+Quito,Ecuador,SA,Tropical Zone,2000/01,1.9,23,12.0,6316
+Quito,Ecuador,SA,Tropical Zone,2003/01,2.0,24,15.0,7500
+Quito,Ecuador,SA,Tropical Zone,2010/01,2.4,26,24.0,10000
+Quito,Ecuador,SA,Tropical Zone,2012/01,2.5,27,27.0,10800
+Quito,Ecuador,SA,Tropical Zone,2013/01,2.6,27,29.0,11154
+Quito,Ecuador,SA,Tropical Zone,2014/01,2.7,28,31.0,11481
+Quito,Ecuador,SA,Tropical Zone,2015/01,2.8,28,33.0,11786
+Quito,Ecuador,SA,Tropical Zone,2016/01,2.9,29,34.0,11724
+Quito,Ecuador,SA,Tropical Zone,2018/01,3.1,30,38.0,12258
+Quito,Ecuador,SA,Tropical Zone,2022/01,3.5,32,45.0,12857
+Montreal,Canada,NA,Temperate Zone,2009/05,3.7,40,140.0,37838
+Montreal,Canada,NA,Temperate Zone,2012/01,3.8,41,160.0,42105
+Montreal,Canada,NA,Temperate Zone,2015/01,4.0,42,185.0,46250
+Montreal,Canada,NA,Temperate Zone,2016/01,4.1,42,195.0,47561
+Montreal,Canada,NA,Temperate Zone,2018/01,4.2,42,215.0,51190
+Montreal,Canada,NA,Temperate Zone,2019/01,4.2,43,230.0,54762
+Montreal,Canada,NA,Temperate Zone,2020/01,4.3,43,240.0,55814
+Montreal,Canada,NA,Temperate Zone,2023/07,4.4,44,275.0,62500
+Hamburg,Germany,EUR,Temperate Zone,2009/01,1.75,41,105.0,60000
+Hamburg,Germany,EUR,Temperate Zone,2010/01,1.76,41,110.0,62500
+Hamburg,Germany,EUR,Temperate Zone,2012/01,1.79,42,120.0,67039
+Hamburg,Germany,EUR,Temperate Zone,2013/01,1.80,42,125.0,69444
+Hamburg,Germany,EUR,Temperate Zone,2014/01,1.81,42,130.0,71823
+Hamburg,Germany,EUR,Temperate Zone,2015/01,1.82,42,135.0,74176
+Hamburg,Germany,EUR,Temperate Zone,2018/01,1.84,43,150.0,81522
+Hamburg,Germany,EUR,Temperate Zone,2019/01,1.85,43,155.0,83784
+Hamburg,Germany,EUR,Temperate Zone,2020/01,1.86,43,160.0,86022
+Phoenix,USA,NA,Subtropical Zone,2016/01,4.5,35,210.0,46667
+Phoenix,USA,NA,Subtropical Zone,2017/01,4.6,35,220.0,47826
+Phoenix,USA,NA,Subtropical Zone,2018/01,4.7,35,230.0,48936
+Phoenix,USA,NA,Subtropical Zone,2019/01,4.8,36,240.0,50000
+Phoenix,USA,NA,Subtropical Zone,2019/03,4.8,36,242.0,50417
+Phoenix,USA,NA,Subtropical Zone,2020/01,4.9,36,250.0,51020
+Barcelona,Spain,EUR,Temperate Zone,2007/01,5.1,39,150.0,29412
+Barcelona,Spain,EUR,Temperate Zone,2010/01,5.3,40,165.0,31132
+Barcelona,Spain,EUR,Temperate Zone,2014/01,5.5,41,185.0,33636
+Barcelona,Spain,EUR,Temperate Zone,2015/01,5.6,41,190.0,33929
+Barcelona,Spain,EUR,Temperate Zone,2016/01,5.7,42,195.0,34211
+Barcelona,Spain,EUR,Temperate Zone,2017/01,5.7,42,200.0,35088
+Barcelona,Spain,EUR,Temperate Zone,2018/01,5.8,43,210.0,36207
+Barcelona,Spain,EUR,Temperate Zone,2019/01,5.8,43,215.0,37069
+Barcelona,Spain,EUR,Temperate Zone,2020/01,5.9,43,220.0,37288
+Philadelphia,USA,NA,Temperate Zone,2000/01,5.6,35,210.0,37500
+Philadelphia,USA,NA,Temperate Zone,2009/01,5.8,36,250.0,43103
+Philadelphia,USA,NA,Temperate Zone,2011/01,5.9,37,270.0,45763
+Philadelphia,USA,NA,Temperate Zone,2012/01,6.0,37,285.0,47500
+Philadelphia,USA,NA,Temperate Zone,2015/01,6.1,38,320.0,52459
+Philadelphia,USA,NA,Temperate Zone,2015/04,6.1,38,325.0,53279
+Philadelphia,USA,NA,Temperate Zone,2016/01,6.1,38,335.0,54918
+Philadelphia,USA,NA,Temperate Zone,2017/01,6.2,39,350.0,56452
+Philadelphia,USA,NA,Temperate Zone,2020/01,6.3,39,385.0,61111
+Auckland,New Zealand,OCEA,Temperate Zone,2013/01,1.50,34,50.0,33333
+Auckland,New Zealand,OCEA,Temperate Zone,2014/01,1.53,34,54.0,35294
+Auckland,New Zealand,OCEA,Temperate Zone,2015/01,1.55,35,57.0,36774
+Auckland,New Zealand,OCEA,Temperate Zone,2016/01,1.58,35,60.0,37975
+Auckland,New Zealand,OCEA,Temperate Zone,2017/01,1.60,35,63.0,39375
+Auckland,New Zealand,OCEA,Temperate Zone,2018/01,1.62,36,67.0,41358
+Auckland,New Zealand,OCEA,Temperate Zone,2019/06,1.65,36,71.0,43030
+Auckland,New Zealand,OCEA,Temperate Zone,2020/01,1.66,37,73.0,43976
+München,Germany,EUR,Temperate Zone,2006/01,2.6,40,110.0,42308
+München,Germany,EUR,Temperate Zone,2010/01,2.8,40,135.0,48214
+München,Germany,EUR,Temperate Zone,2014/01,3.0,41,170.0,56667
+München,Germany,EUR,Temperate Zone,2015/01,3.0,41,180.0,60000
+München,Germany,EUR,Temperate Zone,2015/07,3.1,41,185.0,59677
+München,Germany,EUR,Temperate Zone,2018/01,3.2,42,210.0,65625
+München,Germany,EUR,Temperate Zone,2020/01,3.3,42,225.0,68182
+München,Germany,EUR,Temperate Zone,2023/01,3.5,43,260.0,74286
+Maskat,Oman,ASIA,Subtropical Zone,2016/01,1.5,28,30.0,20000
+Maskat,Oman,ASIA,Subtropical Zone,2018/01,1.7,29,35.0,20588
+Maskat,Oman,ASIA,Subtropical Zone,2020/01,1.9,30,40.0,21053
+Maskat,Oman,ASIA,Subtropical Zone,2022/01,2.1,31,45.0,21429
+Maskat,Oman,ASIA,Subtropical Zone,2023/01,2.2,31,48.0,21818
+Maskat,Oman,ASIA,Subtropical Zone,2024/01,2.3,32,51.0,22174
+San Diego,USA,NA,Temperate Zone,2008/01,3.00,34.0,140.0,46667
+San Diego,USA,NA,Temperate Zone,2014/01,3.25,35.0,190.0,58462
+San Diego,USA,NA,Temperate Zone,2015/01,3.28,35.0,200.0,60976
+San Diego,USA,NA,Temperate Zone,2016/09,3.32,36.0,220.0,66265
+San Diego,USA,NA,Temperate Zone,2018/01,3.36,36.5,240.0,71429
+San Diego,USA,NA,Temperate Zone,2019/01,3.39,37.0,260.0,76696
+San Diego,USA,NA,Temperate Zone,2020/01,3.42,37.5,275.0,80410
+San Diego,USA,NA,Temperate Zone,2020/05,3.43,37.5,280.0,81633
+San Diego,USA,NA,Temperate Zone,2021/01,3.46,38.0,295.0,85260
+San Diego,USA,NA,Temperate Zone,2022/01,3.49,38.5,310.0,88825
+San Diego,USA,NA,Temperate Zone,2022/10,3.50,38.5,318.0,90857
+Guadalajara,Mexico,NA,Tropical Zone,2010/01,4.4,26,70.0,15909
+Guadalajara,Mexico,NA,Tropical Zone,2014/12,4.8,28,88.0,18333
+Guadalajara,Mexico,NA,Tropical Zone,2015/01,4.9,28,90.0,18367
+Guadalajara,Mexico,NA,Tropical Zone,2016/01,5.0,28,95.0,19000
+Guadalajara,Mexico,NA,Tropical Zone,2017/01,5.1,29,100.0,19608
+Guadalajara,Mexico,NA,Tropical Zone,2017/09,5.2,29,105.0,20192
+Guadalajara,Mexico,NA,Tropical Zone,2018/01,5.2,29,108.0,20769
+Guadalajara,Mexico,NA,Tropical Zone,2019/01,5.3,30,115.0,21698
+Guadalajara,Mexico,NA,Tropical Zone,2020/01,5.4,30,120.0,22222
+Guadalajara,Mexico,NA,Tropical Zone,2023/01,5.7,31,135.0,23684
+Milan,Italy,EUR,Temperate Zone,2008/01,5.3,40,240.0,45283
+Milan,Italy,EUR,Temperate Zone,2012/01,5.4,41,270.0,50000
+Milan,Italy,EUR,Temperate Zone,2015/01,5.5,42,295.0,53636
+Milan,Italy,EUR,Temperate Zone,2016/01,5.6,42,305.0,54464
+Milan,Italy,EUR,Temperate Zone,2018/01,5.7,43,325.0,57018
+Milan,Italy,EUR,Temperate Zone,2019/01,5.8,43,335.0,57759
+Milan,Italy,EUR,Temperate Zone,2019/02,5.8,43,338.0,58276
+Milan,Italy,EUR,Temperate Zone,2020/01,5.9,44,345.0,58475
+Milan,Italy,EUR,Temperate Zone,2021/01,5.9,44,355.0,60169
+Milan,Italy,EUR,Temperate Zone,2021/11,6.0,44,365.0,60833
+Milan,Italy,EUR,Temperate Zone,2022/01,6.0,45,370.0,61667
+Freetown,Sierra Leone,AFR,Tropical Zone,2018/01,1.3,19,4.0,3077
+Freetown,Sierra Leone,AFR,Tropical Zone,2019/01,1.3,19,4.2,3231
+Freetown,Sierra Leone,AFR,Tropical Zone,2020/01,1.4,19,4.5,3214
+Freetown,Sierra Leone,AFR,Tropical Zone,2021/01,1.4,19,4.7,3357
+Freetown,Sierra Leone,AFR,Tropical Zone,2022/01,1.5,19,5.0,3333
+Freetown,Sierra Leone,AFR,Tropical Zone,2023/01,1.5,19,5.3,3533
+Freetown,Sierra Leone,AFR,Tropical Zone,2024/01,1.6,19,5.6,3500
+Köln,Germany,EUR,Temperate Zone,2010/01,1.80,41,80.0,44444
+Köln,Germany,EUR,Temperate Zone,2012/01,1.82,41,85.0,46703
+Köln,Germany,EUR,Temperate Zone,2015/01,1.85,42,95.0,51351
+Köln,Germany,EUR,Temperate Zone,2016/01,1.86,42,100.0,53763
+Köln,Germany,EUR,Temperate Zone,2017/01,1.87,42,105.0,56150
+Köln,Germany,EUR,Temperate Zone,2018/01,1.88,43,110.0,58511
+Köln,Germany,EUR,Temperate Zone,2019/01,1.89,43,115.0,60847
+Köln,Germany,EUR,Temperate Zone,2020/01,1.90,43,120.0,63158
+Austin,USA,NA,Subtropical Zone,2015/01,2.0,32,120.0,60000
+Austin,USA,NA,Subtropical Zone,2018/01,2.1,33,150.0,71429
+Austin,USA,NA,Subtropical Zone,2019/01,2.2,33,165.0,75000
+Austin,USA,NA,Subtropical Zone,2019/04,2.2,33,170.0,77273
+Austin,USA,NA,Subtropical Zone,2020/01,2.3,34,185.0,80435
+Austin,USA,NA,Subtropical Zone,2020/11,2.3,34,195.0,84783
+Austin,USA,NA,Subtropical Zone,2021/09,2.4,34,210.0,87500
+Austin,USA,NA,Subtropical Zone,2022/01,2.4,35,220.0,91667
+Austin,USA,NA,Subtropical Zone,2023/01,2.5,35,245.0,98000
+Austin,USA,NA,Subtropical Zone,2024/01,2.6,36,270.0,103846
+Austin,USA,NA,Subtropical Zone,2024/03,2.6,36,275.0,105769
+Stockholm,Sweden,EUR,Temperate Zone,1980/01,1.4,36,55.0,39286
+Stockholm,Sweden,EUR,Temperate Zone,2007/01,1.9,40,120.0,63158
+Stockholm,Sweden,EUR,Temperate Zone,2010/01,2.0,40,140.0,70000
+Stockholm,Sweden,EUR,Temperate Zone,2015/01,2.2,41,175.0,79545
+Stockholm,Sweden,EUR,Temperate Zone,2016/01,2.2,41,185.0,84091
+Stockholm,Sweden,EUR,Temperate Zone,2017/01,2.3,41,195.0,84783
+Stockholm,Sweden,EUR,Temperate Zone,2018/01,2.3,42,205.0,89130
+Stockholm,Sweden,EUR,Temperate Zone,2020/01,2.4,42,220.0,91667
+Stockholm,Sweden,EUR,Temperate Zone,2024/01,2.6,43,260.0,100000
+Amsterdam,Netherlands,EUR,Temperate Zone,2012/01,1.55,40,110.0,70968
+Amsterdam,Netherlands,EUR,Temperate Zone,2015/01,1.60,40,125.0,78125
+Amsterdam,Netherlands,EUR,Temperate Zone,2016/01,1.61,41,130.0,80745
+Amsterdam,Netherlands,EUR,Temperate Zone,2017/01,1.63,41,137.0,84049
+Amsterdam,Netherlands,EUR,Temperate Zone,2018/01,1.64,41,145.0,88415
+Amsterdam,Netherlands,EUR,Temperate Zone,2019/01,1.66,42,153.0,92169
+Amsterdam,Netherlands,EUR,Temperate Zone,2020/01,1.67,42,158.0,94611
+Amsterdam,Netherlands,EUR,Temperate Zone,2022/01,1.70,43,172.0,101176
+Amsterdam,Netherlands,EUR,Temperate Zone,2024/01,1.74,43,188.0,108046
+Amsterdam,Netherlands,EUR,Temperate Zone,2025/01,1.76,44,196.0,111364
+San Francisco,USA,NA,Temperate Zone,1973/01,5.5,33,80.0,14545
+San Francisco,USA,NA,Temperate Zone,2008/01,7.2,37,420.0,58333
+San Francisco,USA,NA,Temperate Zone,2010/01,7.4,38,470.0,63514
+San Francisco,USA,NA,Temperate Zone,2011/01,7.5,38,500.0,66667
+San Francisco,USA,NA,Temperate Zone,2012/01,7.6,39,550.0,72368
+San Francisco,USA,NA,Temperate Zone,2013/01,7.7,39,600.0,77922
+San Francisco,USA,NA,Temperate Zone,2013/08,7.8,39,625.0,80128
+San Francisco,USA,NA,Temperate Zone,2014/01,7.8,40,650.0,83333
+San Francisco,USA,NA,Temperate Zone,2015/01,7.9,40,700.0,88608
+San Francisco,USA,NA,Temperate Zone,2016/01,8.0,40,750.0,93750
+San Francisco,USA,NA,Temperate Zone,2017/01,8.1,41,800.0,98765
+San Francisco,USA,NA,Temperate Zone,2017/06,8.1,41,820.0,101235
+San Francisco,USA,NA,Temperate Zone,2018/01,8.2,41,860.0,104878
+San Francisco,USA,NA,Temperate Zone,2020/04,8.3,42,950.0,114458
+Frankfurt,Germany,EUR,Temperate Zone,2010/01,5.5,41,250.0,45455
+Frankfurt,Germany,EUR,Temperate Zone,2011/01,5.6,41,270.0,48214
+Frankfurt,Germany,EUR,Temperate Zone,2012/01,5.7,42,285.0,50000
+Frankfurt,Germany,EUR,Temperate Zone,2013/01,5.8,42,300.0,51724
+Frankfurt,Germany,EUR,Temperate Zone,2014/01,5.9,42,320.0,54237
+Frankfurt,Germany,EUR,Temperate Zone,2015/01,6.0,43,340.0,56667
+Frankfurt,Germany,EUR,Temperate Zone,2016/01,6.1,43,360.0,59016
+Frankfurt,Germany,EUR,Temperate Zone,2017/01,6.2,43,380.0,61290
+Frankfurt,Germany,EUR,Temperate Zone,2018/01,6.3,44,400.0,63492
+Frankfurt,Germany,EUR,Temperate Zone,2019/01,6.4,44,420.0,65625
+Seattle,USA,NA,Temperate Zone,2009/01,3.25,36,170.0,52308
+Seattle,USA,NA,Temperate Zone,2010/01,3.30,36,180.0,54545
+Seattle,USA,NA,Temperate Zone,2010/09,3.33,36,190.0,57057
+Seattle,USA,NA,Temperate Zone,2011/01,3.35,37,200.0,59701
+Seattle,USA,NA,Temperate Zone,2012/01,3.40,37,220.0,64706
+Seattle,USA,NA,Temperate Zone,2013/01,3.45,37,240.0,69565
+Seattle,USA,NA,Temperate Zone,2014/01,3.50,38,260.0,74286
+Seattle,USA,NA,Temperate Zone,2015/01,3.55,38,285.0,80282
+Seattle,USA,NA,Temperate Zone,2017/01,3.70,39,340.0,91892
+Seattle,USA,NA,Temperate Zone,2018/01,3.80,39,380.0,100000
+Seattle,USA,NA,Temperate Zone,2019/07,3.90,40,420.0,107692
+Seattle,USA,NA,Temperate Zone,2020/04,4.00,40,440.0,110000
+Seattle,USA,NA,Temperate Zone,2023/01,4.25,41,510.0,120000
+Denver,USA,NA,Temperate Zone,2010/01,2.5,35,130.0,52000
+Denver,USA,NA,Temperate Zone,2011/01,2.6,35,138.0,53077
+Denver,USA,NA,Temperate Zone,2012/01,2.6,36,145.0,55769
+Denver,USA,NA,Temperate Zone,2013/01,2.7,36,155.0,57407
+Denver,USA,NA,Temperate Zone,2014/01,2.8,36,165.0,58929
+Denver,USA,NA,Temperate Zone,2015/01,2.9,37,175.0,60345
+Denver,USA,NA,Temperate Zone,2016/01,2.9,37,185.0,63793
+Denver,USA,NA,Temperate Zone,2017/01,3.0,37,195.0,65000
+Denver,USA,NA,Temperate Zone,2018/01,3.1,38,205.0,66129
+Denver,USA,NA,Temperate Zone,2019/01,3.2,38,215.0,67188
+Denver,USA,NA,Temperate Zone,2020/11,3.2,38,225.0,70313
+Denver,USA,NA,Temperate Zone,2022/01,3.3,39,240.0,72727
+Denver,USA,NA,Temperate Zone,2022/04,3.3,39,245.0,74242
+Vancouver,Canada,NA,Temperate Zone,2010/01,2.3,39,120.0,52174
+Vancouver,Canada,NA,Temperate Zone,2011/07,2.3,40,128.0,55652
+Vancouver,Canada,NA,Temperate Zone,2012/01,2.4,40,135.0,56250
+Vancouver,Canada,NA,Temperate Zone,2013/01,2.4,40,140.0,58333
+Vancouver,Canada,NA,Temperate Zone,2013/07,2.5,41,145.0,58000
+Vancouver,Canada,NA,Temperate Zone,2014/01,2.5,41,150.0,60000
+Vancouver,Canada,NA,Temperate Zone,2014/03,2.5,41,152.0,60800
+Vancouver,Canada,NA,Temperate Zone,2014/06,2.5,41,155.0,62000
+Vancouver,Canada,NA,Temperate Zone,2015/01,2.6,41,160.0,61538
+Vancouver,Canada,NA,Temperate Zone,2016/01,2.6,42,170.0,65385
+Vancouver,Canada,NA,Temperate Zone,2016/07,2.7,42,175.0,64815
+Vancouver,Canada,NA,Temperate Zone,2016/12,2.7,42,180.0,66667
+Vancouver,Canada,NA,Temperate Zone,2020/01,2.8,42,205.0,73214
+Vancouver,Canada,NA,Temperate Zone,2023/01,3.0,43,245.0,81667
+Washington DC,USA,NA,Temperate Zone,2005/01,5.2,36,310.0,59615
+Washington DC,USA,NA,Temperate Zone,2010/01,5.5,37,390.0,70909
+Washington DC,USA,NA,Temperate Zone,2010/09,5.6,37,400.0,71429
+Washington DC,USA,NA,Temperate Zone,2011/01,5.6,37,410.0,73214
+Washington DC,USA,NA,Temperate Zone,2012/01,5.7,38,430.0,75439
+Washington DC,USA,NA,Temperate Zone,2013/01,5.8,38,450.0,77586
+Washington DC,USA,NA,Temperate Zone,2014/01,5.9,38,470.0,79661
+Washington DC,USA,NA,Temperate Zone,2015/01,6.0,39,490.0,81667
+Washington DC,USA,NA,Temperate Zone,2016/01,6.0,39,510.0,85000
+Washington DC,USA,NA,Temperate Zone,2017/01,6.1,39,530.0,86885
+Washington DC,USA,NA,Temperate Zone,2023/01,6.4,41,630.0,98438
+Oslo,Norway,EUR,Temperate Zone,2015/01,1.55,38,130.0,83871
+Oslo,Norway,EUR,Temperate Zone,2016/01,1.57,38,135.0,86624
+Oslo,Norway,EUR,Temperate Zone,2017/01,1.59,38,142.0,89308
+Oslo,Norway,EUR,Temperate Zone,2018/01,1.61,39,150.0,93168
+Oslo,Norway,EUR,Temperate Zone,2019/01,1.63,39,158.0,96933
+Oslo,Norway,EUR,Temperate Zone,2020/01,1.65,40,165.0,100000
+Oslo,Norway,EUR,Temperate Zone,2022/01,1.69,40,178.0,105325
+Copenhagen,Denmark,EUR,Temperate Zone,1962/01,1.4,30,10.0,7143
+Copenhagen,Denmark,EUR,Temperate Zone,2010/01,1.8,39,110.0,61111
+Copenhagen,Denmark,EUR,Temperate Zone,2010/06,1.8,39,112.0,62222
+Copenhagen,Denmark,EUR,Temperate Zone,2011/01,1.9,40,118.0,62105
+Copenhagen,Denmark,EUR,Temperate Zone,2012/01,1.9,40,125.0,65789
+Copenhagen,Denmark,EUR,Temperate Zone,2014/01,2.0,41,140.0,70000
+Copenhagen,Denmark,EUR,Temperate Zone,2015/01,2.1,41,150.0,71429
+Copenhagen,Denmark,EUR,Temperate Zone,2016/01,2.1,42,160.0,76190
+Copenhagen,Denmark,EUR,Temperate Zone,2018/01,2.2,42,180.0,81818
+Copenhagen,Denmark,EUR,Temperate Zone,2020/01,2.3,43,200.0,86957
+Boston,USA,NA,Temperate Zone,2002/07,4.0,36,250.0,62500
+Boston,USA,NA,Temperate Zone,2007/07,4.3,37,300.0,69767
+Boston,USA,NA,Temperate Zone,2011/07,4.5,38,350.0,77778
+Boston,USA,NA,Temperate Zone,2016/12,4.8,39,420.0,87500
+Boston,USA,NA,Temperate Zone,2017/03,4.8,39,425.0,88542
+Boston,USA,NA,Temperate Zone,2020/01,5.0,40,470.0,94000
+Boston,USA,NA,Temperate Zone,2022/03,5.1,40,510.0,100000
+Boston,USA,NA,Temperate Zone,2022/09,5.1,41,520.0,101961
+Boston,USA,NA,Temperate Zone,2023/06,5.2,41,550.0,105769
+Boston,USA,NA,Temperate Zone,2024/01,5.2,42,570.0,109615
+Boston,USA,NA,Temperate Zone,2024/06,5.3,42,590.0,111321
+Portland,USA,NA,Temperate Zone,2001/07,1.8,36,65.0,36111
+Portland,USA,NA,Temperate Zone,2002/01,1.8,36,68.0,37778
+Portland,USA,NA,Temperate Zone,2008/01,2.0,37,85.0,42500
+Portland,USA,NA,Temperate Zone,2010/01,2.1,38,95.0,45238
+Portland,USA,NA,Temperate Zone,2012/01,2.2,38,105.0,47727
+Portland,USA,NA,Temperate Zone,2015/06,2.4,39,130.0,54167
+Portland,USA,NA,Temperate Zone,2016/01,2.4,39,135.0,56250
+Portland,USA,NA,Temperate Zone,2018/11,2.6,40,160.0,61538
+Portland,USA,NA,Temperate Zone,2020/02,2.7,40,175.0,64815
+Portland,USA,NA,Temperate Zone,2021/01,2.7,41,185.0,68519
+Portland,USA,NA,Temperate Zone,2022/01,2.8,41,195.0,69643
+Stuttgart,Germany,EUR,Temperate Zone,1986/01,2.5,38,70.0,28000
+Stuttgart,Germany,EUR,Temperate Zone,2007/01,2.6,40,110.0,42308
+Stuttgart,Germany,EUR,Temperate Zone,2008/01,2.6,40,115.0,44231
+Stuttgart,Germany,EUR,Temperate Zone,2009/01,2.7,40,120.0,44444
+Stuttgart,Germany,EUR,Temperate Zone,2010/01,2.7,41,125.0,46296
+Stuttgart,Germany,EUR,Temperate Zone,2010/06,2.7,41,128.0,47407
+Stuttgart,Germany,EUR,Temperate Zone,2012/01,2.8,41,140.0,50000
+Stuttgart,Germany,EUR,Temperate Zone,2015/01,2.9,42,160.0,55172
+Stuttgart,Germany,EUR,Temperate Zone,2019/07,3.0,43,185.0,61667
+Stuttgart,Germany,EUR,Temperate Zone,2020/01,3.0,43,190.0,63333
+Atlanta,USA,NA,Subtropical Zone,2005/01,5.1,33,260.0,50980
+Atlanta,USA,NA,Subtropical Zone,2009/01,5.4,34,300.0,55556
+Atlanta,USA,NA,Subtropical Zone,2010/01,5.5,34,310.0,56364
+Atlanta,USA,NA,Subtropical Zone,2013/06,5.8,35,350.0,60345
+Atlanta,USA,NA,Subtropical Zone,2015/07,6.0,36,390.0,65000
+Atlanta,USA,NA,Subtropical Zone,2017/01,6.1,36,420.0,68852
+Atlanta,USA,NA,Subtropical Zone,2017/05,6.2,36,430.0,69355
+Atlanta,USA,NA,Subtropical Zone,2018/01,6.3,37,450.0,71429
+Atlanta,USA,NA,Subtropical Zone,2019/01,6.4,37,470.0,73438
+Atlanta,USA,NA,Subtropical Zone,2020/01,6.5,37,490.0,75385
+Atlanta,USA,NA,Subtropical Zone,2021/01,6.6,38,510.0,77273
+Atlanta,USA,NA,Subtropical Zone,2022/01,6.7,38,530.0,79104
+Miami,USA,NA,Tropical Zone,2008/01,5.3,40,250.0,47170
+Miami,USA,NA,Tropical Zone,2008/06,5.3,40,260.0,49057
+Miami,USA,NA,Tropical Zone,2010/02,5.5,41,280.0,50909
+Miami,USA,NA,Tropical Zone,2011/04,5.6,41,300.0,53571
+Miami,USA,NA,Tropical Zone,2012/07,5.7,42,320.0,56140
+Miami,USA,NA,Tropical Zone,2015/01,6.0,42,380.0,63333
+Miami,USA,NA,Tropical Zone,2018/01,6.2,43,450.0,72581
+Miami,USA,NA,Tropical Zone,2018/06,6.3,43,465.0,73810
+Miami,USA,NA,Tropical Zone,2019/01,6.4,43,485.0,75781
+Miami,USA,NA,Tropical Zone,2021/06,6.6,44,530.0,80303
+Miami,USA,NA,Tropical Zone,2022/09,6.7,44,570.0,85075
+Miami,USA,NA,Tropical Zone,2022/10,6.7,44,575.0,85821
+New Orleans,USA,NA,Subtropical Zone,2009/01,1.1,36,65.0,59091
+New Orleans,USA,NA,Subtropical Zone,2010/06,1.2,37,70.0,58333
+New Orleans,USA,NA,Subtropical Zone,2012/01,1.2,38,78.0,65000
+New Orleans,USA,NA,Subtropical Zone,2019/01,1.3,40,95.0,73077
+New Orleans,USA,NA,Subtropical Zone,2020/01,1.3,40,98.0,75385
+New Orleans,USA,NA,Subtropical Zone,2020/06,1.3,40,100.0,76923
+New Orleans,USA,NA,Subtropical Zone,2022/01,1.4,41,108.0,77143
+New Orleans,USA,NA,Subtropical Zone,2022/07,1.4,41,110.0,78571
+New Orleans,USA,NA,Subtropical Zone,2022/12,1.4,42,112.0,80000
+New Orleans,USA,NA,Subtropical Zone,2023/01,1.4,42,113.0,80714
+New Orleans,USA,NA,Subtropical Zone,2023/07,1.4,42,115.0,82143
+Kiel,Germany,EUR,Temperate Zone,2015/01,0.5,43,20.0,40000
+Kiel,Germany,EUR,Temperate Zone,2016/01,0.5,43,21.0,42000
+Kiel,Germany,EUR,Temperate Zone,2017/01,0.5,44,22.0,44000
+Kiel,Germany,EUR,Temperate Zone,2018/01,0.5,44,23.0,46000
+Kiel,Germany,EUR,Temperate Zone,2018/06,0.5,44,23.5,47000
+Kiel,Germany,EUR,Temperate Zone,2019/01,0.5,45,24.0,48000
+Kiel,Germany,EUR,Temperate Zone,2019/05,0.5,45,24.5,49000
+Kiel,Germany,EUR,Temperate Zone,2019/06,0.5,45,24.7,49400
+Kiel,Germany,EUR,Temperate Zone,2020/01,0.5,45,25.5,51000
+Kiel,Germany,EUR,Temperate Zone,2020/06,0.5,45,26.0,52000
+Kiel,Germany,EUR,Temperate Zone,2021/06,0.5,46,27.0,54000
+Heidelberg,Germany,EUR,Temperate Zone,1992/06,0.3,37,10.0,33333
+Heidelberg,Germany,EUR,Temperate Zone,1997/01,0.3,39,12.0,40000
+Heidelberg,Germany,EUR,Temperate Zone,2008/01,0.4,42,18.0,45000
+Heidelberg,Germany,EUR,Temperate Zone,2010/01,0.4,43,20.0,50000
+Heidelberg,Germany,EUR,Temperate Zone,2012/01,0.4,43,22.0,55000
+Heidelberg,Germany,EUR,Temperate Zone,2013/06,0.4,44,23.5,58750
+Heidelberg,Germany,EUR,Temperate Zone,2014/01,0.4,44,24.0,60000
+Heidelberg,Germany,EUR,Temperate Zone,2014/06,0.4,44,24.5,61250
+Heidelberg,Germany,EUR,Temperate Zone,2014/12,0.4,44,25.0,62500
+Heidelberg,Germany,EUR,Temperate Zone,2018/03,0.5,45,28.0,56000

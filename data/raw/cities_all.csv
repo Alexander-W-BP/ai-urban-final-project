@@ -1,4 +1,4 @@
-Stadt_ID,Land,Region_Code,Einwohner_2025_Mio
+Stadt_ID,Country,Region_Code,Einwohner_2025_Mio
 Shanghai,China,ASIA,29.868
 Karachi,Pakistan,ASIA,23.128
 Peking,China,ASIA,22.596
@@ -9,7 +9,7 @@ Lima,Peru,SA,12.972
 Mumbai,Indien,ASIA,12.691
 Bengaluru,Indien,ASIA,12.352
 São Paulo,Brasilien,SA,12.330
-Ho-Chi-Minh-Stadt,Vietnam,ASIA,12.236
+Ho-Chi-Minh,Vietnam,ASIA,12.236
 Jakarta,Indonesien,ASIA,11.634
 Chengdu,China,ASIA,11.206
 Bangkok,Thailand,ASIA,10.982
@@ -19,7 +19,7 @@ Kairo,Ägypten,AFR,9.845
 London,UK,EUR,9.841
 Seoul,Südkorea,ASIA,9.648
 Nanjing,China,ASIA,9.648
-Mexiko-Stadt,Mexiko,NA,9.250
+Mexico City,Mexiko,NA,9.250
 Dhaka,Bangladesch,ASIA,8.906
 New York City,USA,NA,8.419
 Ahmedabad,Indien,ASIA,8.159
@@ -90,5 +90,3 @@ Miami,USA,NA,0.470
 New Orleans,USA,NA,0.375
 Kiel,Deutschland,EUR,0.250
 Heidelberg,Deutschland,EUR,0.160
-Chefchaouen,Marokko,AFR,0.043
-Despeñaderos,Argentinien,SA,0.007
