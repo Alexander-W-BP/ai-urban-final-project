@@ -54,6 +54,8 @@ Dieser Vektor beschreibt die **EINE** neue **CO2-reduzierende** Maßnahme, die z
 
 Der Vektor Y (Länge **20**) stellt die Entwicklung der Zielgrößen über vier zukünftige Zeitpunkte (**T+0.5, T+1, T+2, T+5**) dar, differenziert nach Wirkungsbereich.
 
+-> Link für die Temperatur Daten: https://meteostat.net/de/station/58362?t=2000-01-01/2000-12-31
+
 | Index | Feature Name | Beschreibung |
 | :--- | :--- | :--- |
 | **--- T+0.5 Jahre ---** | | |
